@@ -28,7 +28,11 @@
 	google,alignment_current_threshold = <500>;
 
 	fod = [97 27 60 6E BB C8 8E 2C A1 E6 A6 CB C5 10 80 28];
+	fod_lv = [97 24 65 5a bd c6 90 20 a0 ed a6 d2 c5 10 80 19];
 	fod_epp = [8B 4A 8A 2B BB 80 8F 26 90 18 96 FF A8 39 80 19];
+	fod_gpp = [8b 4a 7c 59 93 27 8f 28 95 32 ab c8 00 00 00 29];
+	fod_epp_comp = [99 7f 99 7f 95 7e 98 6c 95 72 97 69 01 01 FF 19];
+	fod_epp_iop = [8b 4a 7c 59 93 20 8f 28 95 1a 9f c8 00 00 00 29];
 	google,q_value = <76>;
 	google,rf_value = <106>;
 	google,hpp_fod_vol = /bits/ 32 <16500000 17500000 18500000 19500000>;

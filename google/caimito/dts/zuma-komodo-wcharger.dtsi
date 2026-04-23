@@ -28,6 +28,9 @@
 	fod = [b1 05 78 38 a8 e8 94 18 9e e5 a4 c7 c9 16 80 19];
 	fod_lv = [97 24 65 5a bd c6 90 20 a0 ed a6 d2 c5 10 80 19];
 	fod_epp = [90 2f 8e 1c bb 80 8f 26 90 18 96 f5 a8 2b 80 19];
+	fod_gpp = [8b 4a 7c 59 93 27 8f 28 95 32 ab c8 00 00 00 29];
+	fod_epp_comp = [99 7f 99 7f 95 7e 98 6c 95 72 97 69 01 01 FF 19];
+	fod_epp_iop = [8b 4a 7c 59 93 20 8f 28 95 1a 9f c8 00 00 00 29];
 	google,q_value = <78>;
 	google,rf_value = <105>;
 	google,hpp_fod_vol = /bits/ 32 <16500000 17500000 18500000 19500000>;
